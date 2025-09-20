@@ -1,0 +1,33 @@
+
+{
+"courses": [
+
+
+  {
+    "title": "Guitar Fundamentals",
+    "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+    "buttonText": "Learn more"
+  },
+  {
+    "title": "Advanced Vocal Techniques",
+    "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
+    "buttonText": "Learn more"
+  },
+  {
+    "title": "Music Production Fundamentals",
+    "description": "Dive into music production with this introductory course on the basics of sound engineering and mixing.",
+    "buttonText": "Learn more"
+  },
+  {
+    "title": "Electronic Music Production",
+    "description": "Master producing electronic music with our course designed for beginners to advanced users.",
+    "buttonText": "Learn more"
+  },
+  {
+    "title": "Blues Guitar Techniques",
+    "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
+    "buttonText": "Learn more"
+  }
+]
+
+}
